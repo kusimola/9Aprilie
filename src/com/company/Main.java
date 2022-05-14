@@ -13,6 +13,7 @@ public class Main {
             numbers.add(i + 1);
             sum = sum+(i+1);
         }
+	// Added comment
         System.out.println(numbers);
         System.out.println("suma initiala:" + sum);
 
